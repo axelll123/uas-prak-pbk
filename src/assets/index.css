@@ -1,0 +1,22 @@
+* {
+    font-family:'Courier New', Courier, monospace !important;
+    text-decoration: none !important;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+:root {
+  --cyberpunk-bg: #0f0f0f;
+  --cyberpunk-border: #ff00ff;
+  --cyberpunk-text: #00ffff;
+  --cyberpunk-input-bg: #1a1a1a;
+  --cyberpunk-input-border: #ff00ff;
+  --cyberpunk-button-bg: #1a1a1a;
+  --cyberpunk-button-hover-bg: #ff00ff;
+}
+
+body {
+  background-image: url(./bg.jpg);
+}
